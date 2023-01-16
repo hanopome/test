@@ -1,0 +1,12 @@
+　
+.grid {
+    margin: 0 auto;
+}
+ 
+.grid-item {
+    width: 300px;
+}
+ 
+.grid-item img {
+   width: 100%;
+}
